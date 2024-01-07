@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KutuphaneOtomasyonModelStoreContainer" CdmEntityContainer="KutuphaneOtomasyonEntities">
+    <EntitySetMapping Name="kayitEkle">
+      <EntityTypeMapping TypeName="KutuphaneOtomasyonModel.kayitEkle">
+        <MappingFragment StoreEntitySet="kayitEkle">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="tc" ColumnName="tc" />
+          <ScalarProperty Name="adSoyad" ColumnName="adSoyad" />
+          <ScalarProperty Name="yas" ColumnName="yas" />
+          <ScalarProperty Name="cinsiyet" ColumnName="cinsiyet" />
+          <ScalarProperty Name="telefon" ColumnName="telefon" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="adres" ColumnName="adres" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kitapEkle">
+      <EntityTypeMapping TypeName="KutuphaneOtomasyonModel.kitapEkle">
+        <MappingFragment StoreEntitySet="kitapEkle">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="kitapAdi" ColumnName="kitapAdi" />
+          <ScalarProperty Name="konu" ColumnName="konu" />
+          <ScalarProperty Name="yil" ColumnName="yil" />
+          <ScalarProperty Name="kitapNo" ColumnName="kitapNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

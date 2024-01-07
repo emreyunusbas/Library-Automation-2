@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KutuphaneOtomasyonModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="kayitEkle">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="tc" Type="Int32" />
+    <Property Name="adSoyad" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="yas" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="cinsiyet" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="telefon" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="adres" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="kitapEkle">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kitapAdi" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="konu" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="yil" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="kitapNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="KutuphaneOtomasyonEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="kayitEkle" EntityType="Self.kayitEkle" />
+    <EntitySet Name="kitapEkle" EntityType="Self.kitapEkle" />
+  </EntityContainer>
+</Schema>

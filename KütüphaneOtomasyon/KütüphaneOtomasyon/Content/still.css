@@ -1,0 +1,198 @@
+.logo{
+height: 50px;
+
+}
+.ayrac{
+    font-size: 20px;
+    margin: 0px 20px;
+    color: black;
+}
+.nav-item a 
+{
+    color: indigo;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+@media screen and (max-width:992px) {
+
+    .vr{
+        display: none;
+    }
+    .nav-item :hover {
+        background-color: #f49817;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 5px;
+    }
+}
+
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: #25204b;
+}
+
+
+.prd-title{
+    color: #212121;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:22px;
+    font-weight: bold;
+}
+.prd-type{
+    color: #212121;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14px;
+    
+}
+.prd-shortinf{
+    color: #212121;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:12px;
+    font-weight: bold;
+
+}
+.main{
+    background-color: #eff2f3;
+}
+
+#footer {
+    display: block;
+    position: relative;
+    background-color: #f8f9fa;
+    font-size: 14px;
+    line-height: 32px;
+    font-weight: 400;
+    font-family: "Poppins",sans-serif;
+}
+    #footer .footer-content {
+        padding: 60px 0 40px 0;
+    }
+.widget {
+    margin-bottom: 30px;
+    position: relative;
+}
+.list, .list-icon, .list-lines, .icon-list, .list-simple, .list-posts, .list-tweets li {
+    list-style: none;
+}
+.list {
+    clear: both;
+    display: block;
+    position: relative;
+}
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-left: 0;
+}
+#footer a:not(.btn):not(:hover) {
+    color: #484848;
+}
+#footer a:not(.btn) {
+    font-weight: 400;
+    text-decoration: auto;
+
+}
+.social-icons {
+    line-height: 0;
+}
+.float-left {
+    float: left !important;
+}
+.social-icons ul {
+    padding: 0;
+    margin: 0;
+}
+.social-icons li {
+    float: left;
+    list-style: none;
+}
+.social-icons.social-icons-colored .social-rss a, .social-icons.social-icons-colored-hover .social-rss a:hover, .social-icons.social-icons-colored .social-snapchat a, .social-icons.social-icons-colored-hover .social-snapchat a:hover {
+    background-color: #faa33d;
+}
+.social-icons.social-icons-rounded li a {
+    border-radius: 50%;
+}
+.social-icons.social-icons-colored a, .social-icons.social-icons-colored-hover a:hover {
+    color: #fff !important;
+    border: 0;
+}
+.social-icons li a {
+    float: left;
+    height: 32px;
+    width: 32px;
+    line-height: 32px;
+    font-size: 16px;
+    text-align: center;
+    margin: 0 4px 4px 0;
+    border-radius: 4px;
+    border: 0;
+    background: transparent;
+    color: #333;
+    overflow: hidden;
+    -webkit-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+.social-icons.social-icons-colored .social-facebook a, .social-icons.social-icons-colored-hover .social-facebook a:hover {
+    background-color: #5d82d1;
+}
+.social-icons.social-icons-colored .social-facebook a, .social-icons.social-icons-colored-hover .social-facebook a:hover {
+    background-color: #5d82d1;
+}
+.social-icons.social-icons-colored .social-twitter a, .social-icons.social-icons-colored-hover .social-twitter a:hover {
+    background-color: #40bff5;
+}
+.social-icons.social-icons-colored .social-youtube a, .social-icons.social-icons-colored-hover .social-youtube a:hover {
+    background-color: #ef4e41;
+}
+#footer .copyright-content {
+    min-height: 50px;
+    padding: 10px 0;
+    background-color: #eff1f4;
+    font-size: 13px;
+}
+.tab-content {
+    margin-top: -1px;
+    border: 1px solid #e6e8eb;
+    bottom: 10px;
+    padding: 30px;
+    border-radius: 0 6px 6px 6px;
+}
+.satin_al {
+    border-width: 1px;
+    background: #f49817;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 12px;
+    letter-spacing: .5px;
+    text-decoration: none;
+    padding: 12px 18px;
+    position: relative;
+    text-transform: uppercase;
+    border-style: solid;
+    transition: all 0.3s;
+    margin-bottom: 6px;
+    line-height: 14px;
+    cursor: pointer;
+    
+}
+    .satin_al:hover {
+        background: #0d6efd !important;
+    }
+.comment {
+    display: block;
+    border-left: 2px solid #e3e4e8;
+    padding: 3px 5px 3px 5px;
+    margin-bottom: 15px;
+}
+.nav-tabs .nav-link {
+    font-size: 14px;
+}
+
+ul.dropdown-menu.show {
+    margin-left: 15px;
+    background-color: #f3f3f3;
+    padding: 3px;
+}

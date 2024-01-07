@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="KutuphaneOtomasyonModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="kayitEkle">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="tc" Type="int" />
+          <Property Name="adSoyad" Type="nvarchar" MaxLength="250" />
+          <Property Name="yas" Type="nvarchar" MaxLength="100" />
+          <Property Name="cinsiyet" Type="nvarchar" MaxLength="100" />
+          <Property Name="telefon" Type="nvarchar" MaxLength="100" />
+          <Property Name="email" Type="nvarchar" MaxLength="100" />
+          <Property Name="adres" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="kitapEkle">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="kitapAdi" Type="nvarchar(max)" />
+          <Property Name="konu" Type="nvarchar(max)" />
+          <Property Name="yil" Type="nvarchar" MaxLength="50" />
+          <Property Name="kitapNo" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityContainer Name="KutuphaneOtomasyonModelStoreContainer">
+          <EntitySet Name="kayitEkle" EntityType="Self.kayitEkle" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="kitapEkle" EntityType="Self.kitapEkle" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="KutuphaneOtomasyonModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="kayitEkle">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="tc" Type="Int32" />
+          <Property Name="adSoyad" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="yas" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="cinsiyet" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="telefon" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="adres" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="kitapEkle">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="kitapAdi" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="konu" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="yil" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="kitapNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="KutuphaneOtomasyonEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="kayitEkle" EntityType="Self.kayitEkle" />
+          <EntitySet Name="kitapEkle" EntityType="Self.kitapEkle" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="KutuphaneOtomasyonModelStoreContainer" CdmEntityContainer="KutuphaneOtomasyonEntities">
+          <EntitySetMapping Name="kayitEkle">
+            <EntityTypeMapping TypeName="KutuphaneOtomasyonModel.kayitEkle">
+              <MappingFragment StoreEntitySet="kayitEkle">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="tc" ColumnName="tc" />
+                <ScalarProperty Name="adSoyad" ColumnName="adSoyad" />
+                <ScalarProperty Name="yas" ColumnName="yas" />
+                <ScalarProperty Name="cinsiyet" ColumnName="cinsiyet" />
+                <ScalarProperty Name="telefon" ColumnName="telefon" />
+                <ScalarProperty Name="email" ColumnName="email" />
+                <ScalarProperty Name="adres" ColumnName="adres" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="kitapEkle">
+            <EntityTypeMapping TypeName="KutuphaneOtomasyonModel.kitapEkle">
+              <MappingFragment StoreEntitySet="kitapEkle">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="kitapAdi" ColumnName="kitapAdi" />
+                <ScalarProperty Name="konu" ColumnName="konu" />
+                <ScalarProperty Name="yil" ColumnName="yil" />
+                <ScalarProperty Name="kitapNo" ColumnName="kitapNo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

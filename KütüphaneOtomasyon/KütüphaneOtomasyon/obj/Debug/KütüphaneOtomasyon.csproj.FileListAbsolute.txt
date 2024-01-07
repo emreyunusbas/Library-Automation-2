@@ -1,0 +1,165 @@
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\KütüphaneOtomasyon.dll.config
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\KütüphaneOtomasyon.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\KütüphaneOtomasyon.pdb
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csc.exe
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csc.exe.config
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csc.rsp
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csi.exe
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csi.rsp
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.AppContext.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\vbc.exe
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\vbc.exe.config
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\vbc.rsp
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Antlr3.Runtime.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\System.Web.Optimization.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\WebGrease.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\System.Web.Optimization.xml
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Antlr3.Runtime.pdb
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CopyComplete
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.pdb
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\EntityFramework.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\EntityFramework.xml
+C:\Users\PC\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\KütüphaneOtomasyon.dll.config
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\KütüphaneOtomasyon.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\KütüphaneOtomasyon.pdb
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csc.exe
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csc.exe.config
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csc.rsp
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csi.exe
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csi.rsp
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.AppContext.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\vbc.exe
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\vbc.exe.config
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\vbc.rsp
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Antlr3.Runtime.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\AspNet.ScriptManager.bootstrap.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\AspNet.ScriptManager.jQuery.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\EntityFramework.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Newtonsoft.Json.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\System.Web.Optimization.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\WebGrease.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\EntityFramework.xml
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\System.Web.Optimization.xml
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Newtonsoft.Json.xml
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Antlr3.Runtime.pdb
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.AssemblyReference.cache
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CoreCompileInputs.cache
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CopyComplete
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.dll
+E:\ASP.NET & HTML ÖDEV\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.pdb
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\KütüphaneOtomasyon.dll.config
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\KütüphaneOtomasyon.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\KütüphaneOtomasyon.pdb
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csc.exe
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csc.exe.config
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csc.rsp
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csi.exe
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\csi.rsp
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\vbc.exe
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\vbc.exe.config
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\vbc.rsp
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Antlr3.Runtime.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\EntityFramework.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Newtonsoft.Json.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\System.Web.Optimization.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\WebGrease.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\EntityFramework.xml
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\System.Web.Optimization.xml
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Newtonsoft.Json.xml
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CopyComplete
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.dll
+C:\Users\ASUS-PC\Desktop\KütüphaneOtomasyon\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.pdb
